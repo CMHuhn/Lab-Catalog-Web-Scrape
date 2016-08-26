@@ -1,0 +1,6 @@
+c:\users\charles\documents\visual studio 2015\Projects\Lab Catalog Web Scrape\Lab Catalog Web Scrape\bin\Debug\Lab Catalog Web Scrape.exe.config
+c:\users\charles\documents\visual studio 2015\Projects\Lab Catalog Web Scrape\Lab Catalog Web Scrape\obj\Debug\Lab Catalog Web Scrape.csprojResolveAssemblyReference.cache
+c:\users\charles\documents\visual studio 2015\Projects\Lab Catalog Web Scrape\Lab Catalog Web Scrape\bin\Debug\Lab Catalog Web Scrape.exe
+c:\users\charles\documents\visual studio 2015\Projects\Lab Catalog Web Scrape\Lab Catalog Web Scrape\bin\Debug\Lab Catalog Web Scrape.pdb
+c:\users\charles\documents\visual studio 2015\Projects\Lab Catalog Web Scrape\Lab Catalog Web Scrape\obj\Debug\Lab Catalog Web Scrape.exe
+c:\users\charles\documents\visual studio 2015\Projects\Lab Catalog Web Scrape\Lab Catalog Web Scrape\obj\Debug\Lab Catalog Web Scrape.pdb
